@@ -1,0 +1,9 @@
+C:\Users\Sinne\Desktop\wow project\launcher2\launcher2\bin\Debug\launcher2.exe.config
+C:\Users\Sinne\Desktop\wow project\launcher2\launcher2\bin\Debug\launcher2.exe
+C:\Users\Sinne\Desktop\wow project\launcher2\launcher2\bin\Debug\launcher2.pdb
+C:\Users\Sinne\Desktop\wow project\launcher2\launcher2\obj\Debug\launcher2.Launcher.resources
+C:\Users\Sinne\Desktop\wow project\launcher2\launcher2\obj\Debug\launcher2.Properties.Resources.resources
+C:\Users\Sinne\Desktop\wow project\launcher2\launcher2\obj\Debug\launcher2.csproj.GenerateResource.Cache
+C:\Users\Sinne\Desktop\wow project\launcher2\launcher2\obj\Debug\launcher2.exe
+C:\Users\Sinne\Desktop\wow project\launcher2\launcher2\obj\Debug\launcher2.pdb
+C:\Users\Sinne\Desktop\wow project\launcher2\launcher2\obj\Debug\launcher2.csprojResolveAssemblyReference.cache

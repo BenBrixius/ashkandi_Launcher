@@ -1,0 +1,9 @@
+C:\Users\Sinne\Desktop\wow project\launcher2\launcher2\obj\Release\launcher2.Properties.Resources.resources
+C:\Users\Sinne\Desktop\wow project\launcher2\launcher2\obj\Release\launcher2.csproj.GenerateResource.Cache
+C:\Users\Sinne\Desktop\wow project\launcher2\launcher2\obj\Release\launcher2.launcher.resources
+C:\Users\Sinne\Desktop\wow project\launcher2\launcher2\obj\Release\launcher2.csprojResolveAssemblyReference.cache
+C:\Users\Sinne\Desktop\wow project\launcher2\launcher2\bin\Release\Custom_Launcher.exe.config
+C:\Users\Sinne\Desktop\wow project\launcher2\launcher2\bin\Release\Custom_Launcher.exe
+C:\Users\Sinne\Desktop\wow project\launcher2\launcher2\bin\Release\Custom_Launcher.pdb
+C:\Users\Sinne\Desktop\wow project\launcher2\launcher2\obj\Release\Custom_Launcher.exe
+C:\Users\Sinne\Desktop\wow project\launcher2\launcher2\obj\Release\Custom_Launcher.pdb
